@@ -1,0 +1,3 @@
+# E-commerce_sales_dashboard_using_PowerBI
+
+Discover a simple yet effective e-commerce sales dashboard using Microsoft Power BI. This intuitive visualization tool provides a quick snapshot of total quantity, total profit, and average amount of orders. Easily track top-selling products, customer demographics, and geographic sales distribution. The dashboard simplifies complex data into accessible insights, empowering users to make informed decisions on product offerings, marketing strategies, and inventory management. Its user-friendly design ensures effortless navigation and a seamless experience for gaining actionable insights into your e-commerce performance.
